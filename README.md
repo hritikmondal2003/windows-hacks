@@ -125,7 +125,7 @@ Reboot when asked. After installation, you can open Ubuntu or any distro from th
 
 ### 🧭 Author
 
-**Windows Hacks by [YourName]**
+**Windows Hacks by [Hritik Mondal]**
 A curated list of small but powerful Windows commands.
 
 > 💬 Feel free to fork this repo and add your own favorite shortcuts!
